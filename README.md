@@ -1,4 +1,7 @@
-## Hi there 👋
+<h3 align="center"> hi im nikko you can call me nik/nick or simon </h3>
+<p align="center"> i like call of duty, mortal kombat, boots (series) and more <sub> int with me </sub></p>
+<p align="center"> im open for c+h ok? ok </p>
+<p align="center"> bye </p>
 
 <!--
 **lamentofnikko/lamentofnikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
